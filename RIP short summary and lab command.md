@@ -1,6 +1,6 @@
 # Networking-Lab-RIP
 
-RIP stands for Routing Information Protocol. It is a distance-vector routing protocol that helps routers share route information and choose paths based on hop count, with a maximum usable path length of 15 hops.
+RIP stands for Routing Information Protocol. It is a distance-vector routing protocol that helps routers share route information and choose paths based on hop count, with a maximum usable path length of 15 hops. RIP can load balance across equal-cost paths. By default, Cisco RIP usually allows up to 4 paths.
 
 •	RIP is used in small to medium networks.
 
